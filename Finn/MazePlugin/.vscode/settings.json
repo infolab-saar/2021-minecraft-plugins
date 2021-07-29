@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Finn\\Documents\\Minecraft\\Server\\spigot-1.16.5.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.dependency.showMembers": true
+}

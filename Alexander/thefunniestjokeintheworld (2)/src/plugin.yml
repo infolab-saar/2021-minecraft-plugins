@@ -1,0 +1,11 @@
+name: thefunniestjokeintheworld
+main: thefunniestjokeintheworld
+api-version: 1.16
+version: 2.8 
+commands:
+  tell_me_the_funniest_joke_in_the_world:
+    description: Joke Warfare
+    
+  wenn_ist_das_nunstueck_git_und_slotermeyer?_ja_beiherhund_das_oder_die_flipperwaldt_gersput!:
+    description: Joke Warfare
+        

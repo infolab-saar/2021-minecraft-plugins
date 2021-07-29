@@ -1,0 +1,9 @@
+name: thefunniestjokeintheworld
+main: thefunniestjokeintheworld
+api-version: 1.16
+version: 1.0
+commands: 
+  tell_me_the_funniest_joke_in_the_world:
+    description: Joke Warfare
+    usage: /tell_me_the_funniest_joke_in_the_world
+  

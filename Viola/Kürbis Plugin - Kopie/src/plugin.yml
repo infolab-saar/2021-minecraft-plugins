@@ -1,0 +1,8 @@
+name: Diamant-Plugin
+main: DiamantPlugin
+api-version: 1.16
+version: 1.0
+commands:
+  diamond:
+    description: Platziert Grundgestein vor dem Spieler
+    usage: /diamond

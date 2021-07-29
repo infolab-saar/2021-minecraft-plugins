@@ -1,0 +1,8 @@
+name: Diamant-Block
+main: DiamantBlock
+api-version: 1.16
+version: 1.0
+commands:
+  diamant:
+    description: Platziert einen Diamantblock vor dem Spieler
+    usage: /diamondblock

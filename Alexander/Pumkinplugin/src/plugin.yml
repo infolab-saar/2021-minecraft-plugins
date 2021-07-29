@@ -1,0 +1,8 @@
+name: PumpkinPlugin
+main: PumpkinPlugin
+api-version: 1.16
+version: 1.0
+commands: 
+  kuerbis:
+    description: Places a pumpkin a block north of the player
+    usage: /pumpkin

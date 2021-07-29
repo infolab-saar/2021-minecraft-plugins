@@ -1,0 +1,10 @@
+name: MazePlugin
+version: 0.0.0
+author: DrRotstein
+main: com.drrotstein.mazeplugin.MazePlugin
+api-version: 1.16
+commands:
+  createmaze:
+    description: Creates a maze at the point you are standing on
+    usage: /createmaze <width> <length> <bottom> <wall>
+    permission: maze.create

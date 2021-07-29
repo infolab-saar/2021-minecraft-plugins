@@ -1,0 +1,8 @@
+name: Warp-Plugin
+main: WarpPlugin
+api-version: 1.15
+version: 1.0
+commands:
+  warp:
+    description: Teleportiert den Spieler 10 Blöcke in die pos X-Richtung.
+    usage: /warp

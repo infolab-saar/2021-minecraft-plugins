@@ -1,0 +1,4 @@
+name: Hallo-Welt-Plugin
+main: HalloWeltPlugin
+api-version: 1.16
+version: 1.0

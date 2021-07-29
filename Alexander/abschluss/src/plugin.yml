@@ -1,0 +1,7 @@
+name: Abschluss-Plugin
+main: Abschluss
+api-version: 1.16
+version: 1.0
+commands:
+  ende:
+    usage: /ende

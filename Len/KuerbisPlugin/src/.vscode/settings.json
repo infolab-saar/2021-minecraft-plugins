@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Len\\Documents\\Minecraft\\Server\\craftbukkit-1.16.5.jar"
+    ]
+}

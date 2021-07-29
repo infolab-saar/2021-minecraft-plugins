@@ -1,0 +1,8 @@
+name: Kuerbis-Plugin
+main: KuerbisPlugin
+api-version: 1.16
+version: 1.0
+commands:
+   kuerbis:
+    discription: Platziert einen Kuerbis vor dem spieler
+    usage: /kuerbis

@@ -1,0 +1,12 @@
+name: Warp-Point-Plugin
+main: WarpPlugin
+api-version: 1.16
+version: 1.0
+commands:
+  setwarp:
+    usage: /setwarp
+
+  gowarp:
+    usage: /gowarp
+
+    description: Teleportiert dich zu dem vorherig gesetzten Block-Koordinaten.

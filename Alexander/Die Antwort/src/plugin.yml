@@ -1,0 +1,11 @@
+name: DieAntwortNachDerFrageNachAllem
+main: DieFrageNachAllem
+api-version: 1.16
+version: 2.6 (release)
+commands: 
+  what_is_the_answer_to_the_ultimate_question_of_life_universe_and_everything:
+    description: The Answer to the Ultimate Question of Life, the Universe, and Everything
+    usage: /what_is_the_answer_to_the_ultimate_question_of_life_universe_and_everything
+
+  fourty-two??!:
+    usage: /fourty-two??!

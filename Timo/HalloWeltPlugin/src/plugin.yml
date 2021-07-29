@@ -1,0 +1,8 @@
+name: Feuerwerk
+main: Feuerwerk
+api-version: 1.16
+version: 1.0
+commands:
+  feuerwerk:
+    description: Platziert ein Feuerwerk vor dem Spieler
+    usage: /feuerwerk
